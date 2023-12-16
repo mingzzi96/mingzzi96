@@ -12,7 +12,7 @@ If you have any questions about me (even if it's not about my works would be fin
 
 - ⚡ Fun fact I am soooo into 탕후루
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">📚 Languages and Tools:</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -21,4 +21,9 @@ If you have any questions about me (even if it's not about my works would be fin
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
+</div>
+
+<h3 align="left">💻 My Stats:</h3>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mingzzi96&show_icons=true&count_private=true&hide_border=true"/>
 </div>
