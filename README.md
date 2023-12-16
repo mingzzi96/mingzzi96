@@ -25,5 +25,10 @@ If you have any questions about me (even if it's not about my works would be fin
 
 <h3 align="left">💻 My Stats:</h3>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mingzzi96&show_icons=true&count_private=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mingzzi96&show_icons=true&count_private=true&hide_border=true&theme=dark"/>
+</div>
+
+<h3 align="left">🪄 Top Langs:</h3>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingzzi96&show_icons=true&count_private=true&hide_border=true&theme=dark"/>
 </div>
