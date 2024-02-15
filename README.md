@@ -11,7 +11,7 @@
 I'm trying hard to become a energetic front-end developer! 🔥<br>
 If you have any questions about me (even if it's not about my projects would be fine) feel free to contact me! 📞
 <br>
-- 🌱 I’m currently learning JavaScript(ES6) , React.js
+- 🌱 I’m currently learning JavaScript , React.js , TypeScript , Next.js
 
 - 📫 How to reach me **jimin23623@gmail.com**
 
