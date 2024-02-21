@@ -5,19 +5,19 @@
 </div>
 
 ###
-## Hello <img width="30" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"> I'm Jimin Kwon
+## 안녕하세요 <img width="30" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"> 프론트엔드 개발자 권지민입니다.
 
 
-I'm trying hard to become a energetic front-end developer! 🔥<br>
-If you have any questions about me (even if it's not about my projects would be fine) feel free to contact me! 📞
+열정 넘치는 개발자가 되기 위해서 노력하고 있어요 🔥<br>
+꼭 개발 관련된 질문이 아니어도 좋으니 언제든지 연락주세요! 📞
 <br>
-- 🌱 I’m currently learning JavaScript , React.js , TypeScript , Next.js
+- 🌱 요즘 배우고있는 언어는요 ... JavaScript , React.js , TypeScript , Next.js
 
-- 📫 How to reach me **jimin23623@gmail.com**
+- 📫 여기로 연락 주세요 **jimin23623@gmail.com**
 
-- ✍🏼 I regulary write articles on [Velog](https://velog.io/@ooo3289)
+- ✍🏼 개발 블로그에 공부 기록을 남기고 있어요 [Velog](https://velog.io/@ooo3289)
 
-- ⚡ Fun fact I am soooo into 탕후루
+- ⚡ 저는 탕후루가 너무 좋아용
 
 
 
