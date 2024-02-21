@@ -8,7 +8,8 @@
 ## 안녕하세요 <img width="30" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"> 프론트엔드 개발자 권지민입니다.
 
 
-열정 넘치는 개발자가 되기 위해서 노력하고 있어요 🔥<br>
+열정 넘치는 개발자가 되기 위해서 노력하고 있어요 <br>
+저는 다양한 주제로 생각을 나누는 것을 굉장히 좋아합니다. 피드백도 언제나 환영이에요 🤓<br>
 꼭 개발 관련된 질문이 아니어도 좋으니 언제든지 연락주세요! 📞
 <br>
 - 🌱 요즘 배우고있는 언어는요 ... JavaScript , React.js , TypeScript , Next.js
