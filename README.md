@@ -46,6 +46,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=mingzzi96&theme=onedark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
+<!--https://www.gitanimals.org/en_US/mypage?type=farm-type-->
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/mingzzi96"
